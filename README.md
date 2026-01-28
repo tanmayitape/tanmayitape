@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/tanmayitape/)">LinkedIn</a> ·
+  <a href="[(https://www.linkedin.com/in/tanmayitape/)]">LinkedIn</a> ·
   <a href="mailto:tanmayitape.uk@gmail.com">Email</a> ·
 </p>
 
