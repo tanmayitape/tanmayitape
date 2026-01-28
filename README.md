@@ -17,9 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="YOUR_CV_LINK">CV</a>
+  <a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/tanmayitape/)">LinkedIn</a> ·
+  <a href="mailto:tanmayitape.uk@gmail.com">Email</a> ·
 </p>
 
 ---
