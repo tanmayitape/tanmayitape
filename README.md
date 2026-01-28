@@ -1,45 +1,51 @@
-<!-- HERO BANNER (make your own image and upload to /assets/banner.png) -->
+<!-- ========================= -->
+<!--      PROFILE BANNER      -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
+  <img src="assets/banner.png" width="100%" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Tanmay Itape</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Python+%7C+Power+BI;Decision-focused+analytics+for+real+business+problems" alt="Typing SVG" />
-  </a>
+  Data Analyst · Business Intelligence · MSc Data Science
+</p>
+
+<p align="center">
+  London, United Kingdom
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN">LinkedIn</a> ·
   <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="YOUR_CV_LINK">CV</a> ·
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+  <a href="YOUR_CV_LINK">CV</a>
 </p>
 
 ---
 
-## About
-I build clean, decision-ready analytics, the kind that leaders can trust.
-My focus is turning messy data into reliable insights through strong SQL, careful validation, and clear storytelling.
+## Overview
 
-**What you’ll see in my work:**
-- Metrics that tie directly to business decisions
-- Reproducible analysis (assumptions + checks + documentation)
-- Dashboards and models designed for real stakeholders, not demos
+I build analytics that decision-makers can rely on.
 
----
+My work focuses on transforming messy, real-world data into structured insights through strong SQL, rigorous validation, and clear business reasoning. I care less about complexity for its own sake, and more about accuracy, context, and usefulness.
 
-## What I’m great at
-- **SQL:** joins, CTEs, window functions, validation checks, performance thinking  
-- **Analytics:** KPI design, variance analysis, root-cause investigation  
-- **BI:** Power BI (DAX, Power Query), stakeholder-ready reporting  
-- **Python:** data cleaning, modelling, forecasting, evaluation
+I am particularly interested in analytics roles where trust, judgement, and clarity matter, such as banking, financial services, and large enterprise environments.
 
 ---
 
-## Featured Projects (Start here)
+## What I Actually Do Well
+
+- Turn ambiguous business questions into structured analytical problems  
+- Design reliable SQL logic with built-in validation and reconciliation  
+- Build executive-ready dashboards that highlight what matters, not everything  
+- Explain analysis clearly to non-technical stakeholders  
+- Document assumptions, trade-offs, and limitations honestly  
+
+---
+
+## Selected Work
+
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&show_owner=true" />
@@ -54,28 +60,51 @@ My focus is turning messy data into reliable insights through strong SQL, carefu
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&show_owner=true" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/PROJECT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&show_owner=true" />
+    <img src="https://github.com/YOUR_USERNAME/PROJECT_4/raw/main/assets/preview.png" width="420" />
   </a>
 </p>
 
----
-
-## Proof of Work (Recruiter-friendly)
-- Built dashboards and reporting pipelines with measurable time/cost impact  
-- Improved data reliability using validation logic and reconciliation checks  
-- Delivered insights as decisions, not just charts
+Each project is written as a case study, with a clear objective, business context, methodology, and outcome.
 
 ---
 
-## GitHub Snapshot (optional)
+## Technical Foundation
+
+**Data & Analytics**  
+SQL (joins, CTEs, window functions), Python (Pandas, NumPy), Excel
+
+**Business Intelligence**  
+Power BI (DAX, Power Query), Tableau
+
+**Data Science**  
+Predictive modelling, forecasting, classification, model evaluation
+
+**Databases & Practices**  
+PostgreSQL, MySQL · Data validation · KPI design · Version control
+
+---
+
+## Professional Interests
+
+- Banking and financial services analytics  
+- Risk, performance, and operational efficiency  
+- Decision support systems and management reporting  
+- Analytics that prioritise trust, clarity, and impact  
+
+---
+
+## GitHub Snapshot
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_title=true&show_icons=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="165" />
 </p>
 
 ---
 
 ## Contact
-If you’re hiring for analytics roles in banking/finance/enterprise BI:
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+
+If you are hiring for analytics or BI roles:
+
+- LinkedIn: YOUR_LINKEDIN  
+- Email: YOUR_EMAIL  
