@@ -62,17 +62,3 @@ Large-scale analysis of public safety incidents with strong data cleaning, valid
 - **ML:** imbalanced classification, time-aware validation, probability calibration  
 - **Ways of working:** documentation, assumptions, sanity checks, clarity under pressure
 
----
-
-## Live activity (animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanmayitape/tanmayitape/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## GitHub snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmayitape&hide_title=true&show_icons=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayitape" height="165" />
-</p>
